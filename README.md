@@ -13,7 +13,7 @@ Welcome to the MERM Attendance Tracking Web App! This application is a full stac
 To get started with the Attendance Tracking Web Appl, follow these following steps:
 * Clone the repository:
   ```
-    https://github.com/Ishpreet01/Attendance-Tracker-Project.git
+    <a href="https://github.com/Ishpreet01/Attendance-Tracker-Project.git">
   ```
 * Install server and client dependencies:
   ```
